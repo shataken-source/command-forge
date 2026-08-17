@@ -1,0 +1,9 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+
+# Vercel
+.vercel
+
+# nothing else to ignore — this is a single static HTML file + assets
