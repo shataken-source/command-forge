@@ -46,7 +46,7 @@ Nothing. The tool is a single static page — no accounts, no tracking, no serve
 
 ## Tech
 
-Single self-contained `index.html`. No build step, no dependencies, no backend. Deploy by serving the folder statically.
+Two static pages, no build step, no dependencies, no backend: `index.html` (the tool) and `guide.html` (the interactive user guide, linked from the header). Deploy by serving the folder statically.
 
 ## Field-tested
 

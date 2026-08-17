@@ -1,13 +1,16 @@
-# Repo root is command-generator; the static site lives in app/
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+
+# Vercel
+.vercel
 
 # secrets
 .moltbook_credentials.json
 
-# duplicate site copies at this root (canonical tree is app/)
-/index.html
-/README.md
-/vercel.json
-/assets/
+# leftover from flatten; not the live config
+root-vercel.json
 
 # non-site materials
 *.7z
